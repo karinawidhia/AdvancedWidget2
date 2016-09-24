@@ -16,4 +16,4 @@
 ![AdvancedWidget2.2](https://github.com/karinawidhia/AdvancedWidget2/blob/master/AdvancedWidget2.2.png)
 
 ### Identitas
-**Karina Widhia N, XI RPL 1, 15, 4733/1452.070**
+**Karina Widhia N, XI RPL 1, 15, 4733/1452.070, SMK Telkom Malang**
